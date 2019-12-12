@@ -1,0 +1,10 @@
+C:\Users\moala2\Desktop\ITurbineCurtailmentProvider(1)\bin\Debug\netcoreapp2.2\greenbyte.deps.json
+C:\Users\moala2\Desktop\ITurbineCurtailmentProvider(1)\bin\Debug\netcoreapp2.2\greenbyte.runtimeconfig.json
+C:\Users\moala2\Desktop\ITurbineCurtailmentProvider(1)\bin\Debug\netcoreapp2.2\greenbyte.runtimeconfig.dev.json
+C:\Users\moala2\Desktop\ITurbineCurtailmentProvider(1)\bin\Debug\netcoreapp2.2\greenbyte.dll
+C:\Users\moala2\Desktop\ITurbineCurtailmentProvider(1)\obj\Debug\netcoreapp2.2\greenbyte.csproj.CoreCompileInputs.cache
+C:\Users\moala2\Desktop\ITurbineCurtailmentProvider(1)\obj\Debug\netcoreapp2.2\greenbyte.AssemblyInfoInputs.cache
+C:\Users\moala2\Desktop\ITurbineCurtailmentProvider(1)\obj\Debug\netcoreapp2.2\greenbyte.AssemblyInfo.cs
+C:\Users\moala2\Desktop\ITurbineCurtailmentProvider(1)\bin\Debug\netcoreapp2.2\greenbyte.pdb
+C:\Users\moala2\Desktop\ITurbineCurtailmentProvider(1)\obj\Debug\netcoreapp2.2\greenbyte.dll
+C:\Users\moala2\Desktop\ITurbineCurtailmentProvider(1)\obj\Debug\netcoreapp2.2\greenbyte.pdb
